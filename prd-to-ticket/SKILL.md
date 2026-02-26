@@ -1,4 +1,4 @@
-# PRD to Issues
+# PRD to Tickets
 
 Break a PRD into independently-grabbable Jira tickets using vertical slices (tracer bullets).
 
